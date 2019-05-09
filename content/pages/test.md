@@ -1,7 +1,7 @@
 ---
 template: page
 title: Test
-slug: ''
+slug: pages/test
 draft: false
 ---
 Testing the creation of a new page
